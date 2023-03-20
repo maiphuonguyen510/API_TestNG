@@ -1,0 +1,6 @@
+<employee>
+    <id>100</id>
+    <title>About JavaTpoint</title>
+    <body>JavaTpoint is a good site to learn Java. One must visit the site.</body>
+    <userId>199</userId>
+</employee>

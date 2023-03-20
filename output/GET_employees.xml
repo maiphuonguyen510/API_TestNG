@@ -1,0 +1,13 @@
+<employee>
+    <data>
+        <color>#BF1932</color>
+        <year>2002</year>
+        <name>true red</name>
+        <id>3</id>
+        <pantone_value>19-1664</pantone_value>
+    </data>
+    <support>
+        <text>To keep ReqRes free, contributions towards server costs are appreciated!</text>
+        <url>https://reqres.in/#support-heading</url>
+    </support>
+</employee>

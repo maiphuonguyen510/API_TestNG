@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/quang/IdeaProjects/API_Testing/src/test/java/com/example/api_testing/RestAPITests.java"><classes><class name="com.example.api_testing.RestAPITests"><methods><include name="verifyUser"/><include name="createUser"/></methods></class></classes></test></suite>
